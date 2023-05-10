@@ -4,8 +4,8 @@
       "name": "QueueItem",
       "type": "queueTrigger",
       "direction": "in",
-      "queueName": "spoken-queue",
-      "connection": "AzureWebJobsStorage_AprilKnights"
+      "queueName": "1095579067295735918",
+      "connection": "AzureWebJobsStorage_Doorway"
     }
   ]
 }
